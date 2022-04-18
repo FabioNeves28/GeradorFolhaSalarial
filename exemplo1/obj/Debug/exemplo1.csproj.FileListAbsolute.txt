@@ -1,0 +1,31 @@
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\bin\Debug\exemplo1.exe.config
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.Form1.resources
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.exe
+C:\Users\Leandro\Desktop\Reposicao TPBD2\exemplo1\exemplo1\obj\Debug\exemplo1.pdb
+E:\exemplo1\exemplo1\bin\Debug\exemplo1.exe.config
+E:\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+E:\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.csprojAssemblyReference.cache
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.Form1.resources
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.cache
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.CoreCompileInputs.cache
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.exe
+E:\exemplo1\exemplo1\obj\Debug\exemplo1.pdb
+D:\exemplo1\exemplo1\bin\Debug\exemplo1.exe.config
+D:\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+D:\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.AssemblyReference.cache
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.SuggestedBindingRedirects.cache
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.Form1.resources
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.cache
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.CoreCompileInputs.cache
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.exe
+D:\exemplo1\exemplo1\obj\Debug\exemplo1.pdb
